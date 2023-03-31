@@ -1,4 +1,4 @@
-# 👋 TonyMarsh 孙涛 (🚧Still under construction)
+# 👋 孙涛 (🚧Still under construction)
 
 **`College Students in China, on my way to be a full stack developer`**  
 我的名字是孙涛，目前正在上海立信会计金融学院中学习，我的现在的学习目标是成为一名网络全栈工程师
