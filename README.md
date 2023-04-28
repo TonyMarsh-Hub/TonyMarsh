@@ -1,4 +1,4 @@
-# 👋 孙涛 (🚧Still under construction)
+# 👋 (🚧Still under construction)
 
 **`College Students in China, on my way to be a full stack developer`**  
 
