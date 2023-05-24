@@ -33,7 +33,7 @@ I excel in Java and enjoy creating robust back-end functionalities using Spring 
 
 At the moment, I don't have any standout projects to showcase as my main focus has been on back-end web development.
 While my primary focus has been on back-end development, I also have a keen interest in front-end development.
-Although I haven't had extensive experience, I've dabbled with Vue.js and its concepts. However, I'm eager to take my skills to the next level.
+I've dabbled with Vue.js and its concepts and I'm eager to take my skills to the next level.
 Next.js has caught my attention, and I'm excited to explore its capabilities and leverage it for my web development projects.  
 
 My GitHub profile reflects my commitment to personal growth and collaboration.
